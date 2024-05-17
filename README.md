@@ -14,7 +14,11 @@ TodoApp is a simple and interactive to-do list application built with React.js. 
 
 - [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [Zustand](https://github.com/pmndrs/zustand) - A small, fast, and scalable state-management solution.
-- [Framer Motion](https://www.framer.com/motion/) - A production-ready motion library for React.# Getting Started with Create React App
+- [Framer Motion](https://www.framer.com/motion/) - A production-ready motion library for React.
+
+##Screenshot
+![image](https://github.com/Harini-RAJ/Todolist-Reactjs/assets/162883450/0da39323-29e4-48a8-872d-4154e967db19)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
