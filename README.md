@@ -6,7 +6,7 @@ TodoApp is a simple and interactive to-do list application built with React.js. 
 
 ## Features
 
-- Add, edit, and delete tasks
+- Add and delete tasks
 - Mark tasks as complete
 - Persistent state management with Zustand
 
