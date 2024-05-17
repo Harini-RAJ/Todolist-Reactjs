@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# TodoApp
+
+## Overview
+
+TodoApp is a simple and interactive to-do list application built with React.js. It uses Zustand for state management and Framer Motion for smooth animations. This project demonstrates the use of modern React hooks, efficient state management, and animations.
+
+## Features
+
+- Add, edit, and delete tasks
+- Mark tasks as complete
+- Persistent state management with Zustand
+
+## Technologies Used
+
+- [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [Zustand](https://github.com/pmndrs/zustand) - A small, fast, and scalable state-management solution.
+- [Framer Motion](https://www.framer.com/motion/) - A production-ready motion library for React.# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
